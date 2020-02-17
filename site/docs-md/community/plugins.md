@@ -3,6 +3,7 @@ title: Capacitor Community Plugins
 description: Capacitor Community Plugins
 url: /docs/community/plugins
 contributors:
+  - AntoninBeaufort
 ---
 
 # Capacitor Community Plugins
@@ -50,14 +51,12 @@ Are we missing your awesome plugin? [Add it to this page](https://github.com/ion
 
 | Name                    | NPM package | GitHub | Notes |
 | ----------------------- | ----------- | ------ | ------ |
-| Data Storage SQLite | `capacitor-data-storage-sqlite` | <https://github.com/jepiqueau/capacitor-data-storage-sqlite> | |
 | Secure Storage Plugin | `capacitor-secure-storage-plugin` | <https://github.com/martinkasa/capacitor-secure-storage-plugin> | |
 
 ## Video
 
 | Name                    | NPM package | GitHub | Notes |
 | ----------------------- | ----------- | ------ | ------ |
-| Video Player | `capacitor-video-player` | <https://github.com/jepiqueau/capacitor-video-player> | |
 | YouTube | `capacitor-youtube-player` | <https://github.com/abritopach/capacitor-youtube-player> | |
 | Twilio iOS | `twilio-ios-capacitor` | <https://github.com/MCanhisares/twilio-ios-capacitor> | Video calls with Twilio |
 | Video Recorder | `@teamhive/capacitor-video-recorder` | <https://github.com/TeamHive/capacitor-video-recorder> | |
@@ -93,7 +92,7 @@ Are we missing your awesome plugin? [Add it to this page](https://github.com/ion
 
 | Name                    | NPM package | GitHub | Notes |
 | ----------------------- | ----------- | ------ | ------ |
-| Fused Location | `@johannesnormannjensen/capacitor-fused-location` | <https://github.com/johannesnormannjensen/capacitor-fused-location> | |
+| Fused Location | `@jonoj/capacitor-fused-location` | <https://github.com/jonoj-team/capacitor-fused-location> | |
 | Geofence Tracker | `capacitor-geofence-tracker` | <https://github.com/mvollebregt/capacitor-geofence-tracker> | |
 | Fancy Geo | `capacitor-fancy-geo` | <https://github.com/triniwiz/capacitor-fancy-geo> | |
 | [Radar](https://radar.io) | `capacitor-radar` | <https://github.com/radarlabs/capacitor-radar> | |
@@ -106,11 +105,15 @@ Are we missing your awesome plugin? [Add it to this page](https://github.com/ion
 
 ## Audio
 
+| Name                    | NPM package | GitHub | Notes |
+| ----------------------- | ----------- | ------ | ------ |
+| Voice Recorder | `capacitor-voice-recorder` | <https://bitbucket.org/tchvu3/capacitor-voice-recorder> | |
+
 ## Ads
 
 | Name                    | NPM package | GitHub | Notes |
 | ----------------------- | ----------- | ------ | ------ |
-| AdMob | `capacitor-admob` | <https://github.com/rahadur/capacitor-admob> | Android only (currently) |
+| AdMob | `capacitor-admob` | <https://github.com/rahadur/capacitor-admob> | iOS, Android |
 | AdMob | `@rdlabo/capacitor-admob` | <https://github.com/rdlabo/capacitor-admob> | |
 
 ## Notifications
@@ -156,6 +159,7 @@ Are we missing your awesome plugin? [Add it to this page](https://github.com/ion
 | Image Cache | `capacitor-image-cache` | <https://github.com/triniwiz/capacitor-image-cache> | |
 | Image Crop | `capacitor-image-crop` | <https://github.com/triniwiz/capacitor-image-crop> | | 
 | Media Operations | `capacitor-media` | <https://github.com/stewwan/capacitor-media> | |
+| Code Scanner | `@rdlabo/capacitor-codescanner` | <https://github.com/rdlabo/capacitor-codescanner> | iOS only (currently) |
 
 
 ## Printers
